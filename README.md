@@ -2,7 +2,7 @@
 - 👀 I’m interested in building beautiful online playgrounds for people.
 - 🌱 C#, HTML, CSS, Javascript, Python.
 - 💞️ I’m looking to collaborate on everything and anything you want!
-- 📫 Reach me on e-mail simonwelan@gmail.com
+- 📫 Reach me on e-mail hello@simonlan.com.au
 
 <!---
 cinnamonscript/cinnamonscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
